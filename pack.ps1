@@ -1,0 +1,1 @@
+dotnet pack --output=../.. /p:Configuration=Release  src/FM.Exceptions/FM.Exceptions.csproj 
